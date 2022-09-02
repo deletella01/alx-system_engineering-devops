@@ -1,1 +1,1 @@
-This repo is my first repo with shell basics. I would be working with Shell Basic commands
+This repository explores the use of shell to create, manipulate and destroy files. Enjoy!

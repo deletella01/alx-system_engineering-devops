@@ -13,7 +13,8 @@ v1.0.0 (by /u/firdaus_cartoon_jr)"
     params = {
         "limit": 10
     }
-    response = requests.get(url, headers=headers, params=params, allow_redirects=False)
+    response = requests.get(url, headers=headers, params=params,
+                            allow_redirects=False)
     if response.status_code == 404:
         print("None")
         return
